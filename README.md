@@ -52,6 +52,3 @@ This is a **basic educational project**.
 Do **NOT** use it for real-world security — it is not cryptographically secure.  
 
 ---
-
-## 📜 License
-MIT License
